@@ -1,0 +1,9 @@
+# Covers Visual Studio Code
+.vscode
+
+# Covers JetBrains IDEs
+.idea
+
+# Covers Others
+.env
+.DS_Store
